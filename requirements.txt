@@ -1,0 +1,7 @@
+notebook
+sympy
+pandas
+matplotlib
+graphviz
+networkx
+pydot
